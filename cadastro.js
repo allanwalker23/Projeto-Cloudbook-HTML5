@@ -32,7 +32,7 @@ http.onload = function () {
     }else{
         console.log(http.status)
         alert('Cadastrado com sucesso! Entre no app e faça o seu login')
-        window.location.href = "file:///C:/Users/Allan%20Oliveira/Desktop/projeto-spotify/index.html";
+        window.location.href = "https://facundoallan.github.io/Projeto-Cloudbook-HTML5/";
     }
     
     
